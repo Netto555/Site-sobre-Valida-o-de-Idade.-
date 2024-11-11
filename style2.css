@@ -1,0 +1,25 @@
+@font-face {
+    font-family: bemvindo;
+    src: url(./agreloy/Agreloy.ttf);
+}
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2020/08/19/07/43/caravelle-saigon-5500241_1280.jpg);
+}
+
+h1 {
+    text-align: center;
+    font-family: bemvindo;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    margin: 60px;
+    font-size: 30px;
+    font-weight: 200px;
+    color: rgba(0, 0, 0, 0.767);
+    background-color: #a7c5c59c;
+    border-radius: 10px;
+    
+}
